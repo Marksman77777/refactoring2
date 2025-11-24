@@ -1,2 +1,4 @@
-efe4b4a (HEAD -> main, origin/main, origin/HEAD) Finished Task 1.1
+bf7183e (HEAD -> main, origin/main, origin/HEAD) Finished Task 2.1a
+2ad76c4 Finished Task 1.2
+efe4b4a Finished Task 1.1
 5efe94b Initial commit
